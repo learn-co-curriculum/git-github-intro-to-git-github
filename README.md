@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Understand the purpose of this module
-- Ensure that you have what you need for your environment setup
+- Describe the purpose of this module and the tools you will be using.
+- Prepare your environment to practice with version control, Git, and GitHub.
 
 ## Introduction
 
@@ -105,6 +105,12 @@ It will be much easier to follow along with the examples and exercises in this
 module if you have a text editor installed on your local machine. We use and
 recommend [Visual Studio Code][vscode] (VS Code), but you are free to use
 whichever text editor you prefer.
+
+## Check for Understanding
+
+Before moving on to the next lesson, check for your understanding of this lesson
+by describing in your own words what Git and Github are, what they're used for,
+and what you’ll learn to do with them.
 
 ## Conclusion
 
