@@ -62,7 +62,7 @@ set up in prework. If you haven't, we strongly recommend you complete all the
 lessons in the appropriate (Windows or Mac) Environment Setup module, available
 in the Canvas Prework course or Canvas Homeroom, before you continue.
 
-[DSC] For Data Science students, .....
+[DSC] For Data Science students, make sure you have completed Setting up a Professional Data Science Environment lessons, including Introduction, MacOS/Windows, and Configuring Git. These lessons can be found in the beginning of Phase 1 in the section titled Getting Started with Data Science.
 
 The specific requirements are outlined below.
 
