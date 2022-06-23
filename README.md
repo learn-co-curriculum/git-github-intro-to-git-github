@@ -9,8 +9,8 @@
 
 Git is a widely-used, powerful tool that many companies in the tech industry use
 on a daily basis, especially in software engineering. Developing good Git habits
-and becoming comfortable with the common workflows will help you in your job
-search and in your daily work life once you find a job.
+and becoming comfortable with common workflows will help you in your job search
+and in your daily work life once you find a job.
 
 Git has many powerful features that give you almost unlimited control over
 maintaining the code in your projects. But it is also, as a result, quite
@@ -33,7 +33,7 @@ workflows — will be the same.
 Before proceeding, we recommend you go back and review any Git lessons you've
 already completed in the curriculum to refresh your memory and give you a jump
 start on the material. These lessons will be in Prework for Software Engineering
-students and in Phase 1 for Data Science students [DSC].
+students and in Phase 1 for Data Science students.
 
 ## How to Approach the Material in this Module
 
@@ -62,7 +62,10 @@ set up in prework. If you haven't, we strongly recommend you complete all the
 lessons in the appropriate (Windows or Mac) Environment Setup module, available
 in the Canvas Prework course or Canvas Homeroom, before you continue.
 
-[DSC] For Data Science students, make sure you have completed Setting up a Professional Data Science Environment lessons, including Introduction, MacOS/Windows, and Configuring Git. These lessons can be found in the beginning of Phase 1 in the section titled Getting Started with Data Science.
+For Data Science students, make sure you have completed the Setting up a
+Professional Data Science Environment lessons, including Introduction,
+MacOS/Windows, and Configuring Git. These lessons can be found in the beginning
+of Phase 1 in the section titled Getting Started with Data Science.
 
 The specific requirements are outlined below.
 
@@ -96,21 +99,15 @@ for example, pushing code up to GitHub. Setting up an SSH key is not necessary
 to complete the material in this module, but if you'd like to, see **steps 6
 through 11** in the **Configure Git** section of the relevant instructions:
 
-[Instructions for Mac users](https://github.com/learn-co-curriculum/phase-0-macos-env-git-github)
-[Instructions for Windows user](https://github.com/learn-co-curriculum/phase-0-wsl2-env-git-github)
+- [Instructions for Mac users](https://github.com/learn-co-curriculum/phase-0-macos-env-git-github)
+- [Instructions for Windows user](https://github.com/learn-co-curriculum/phase-0-wsl2-env-git-github)
 
 ### Text Editor
 
 It will be much easier to follow along with the examples and exercises in this
-module if you have a text editor installed on your local machine. We use and
-recommend [Visual Studio Code][vscode] (VS Code), but you are free to use
-whichever text editor you prefer.
-
-## Check for Understanding
-
-Before moving on to the next lesson, check for your understanding of this lesson
-by describing in your own words what Git and Github are, what they're used for,
-and what you’ll learn to do with them.
+module if you have a text editor installed on your local machine. We recommend
+[Visual Studio Code][vscode] (VS Code) and will use it in the examples in this
+module, but you are free to use whichever text editor you prefer.
 
 ## Conclusion
 
