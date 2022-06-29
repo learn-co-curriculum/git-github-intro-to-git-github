@@ -100,7 +100,7 @@ to complete the material in this module, but if you'd like to, see **steps 6
 through 11** in the **Configure Git** section of the relevant instructions:
 
 - [Instructions for Mac users](https://github.com/learn-co-curriculum/phase-0-macos-env-git-github)
-- [Instructions for Windows user](https://github.com/learn-co-curriculum/phase-0-wsl2-env-git-github)
+- [Instructions for Windows users](https://github.com/learn-co-curriculum/phase-0-wsl2-env-git-github)
 
 ### Text Editor
 
