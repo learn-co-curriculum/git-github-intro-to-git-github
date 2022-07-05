@@ -32,8 +32,8 @@ workflows — will be the same.
 
 Before proceeding, we recommend you go back and review any Git lessons you've
 already completed in the curriculum to refresh your memory and give you a jump
-start on the material. These lessons will be in Prework for Software Engineering
-students and in Phase 1 for Data Science students.
+start on the material. These lessons will be in Software Engineering Prep for
+Software Engineering students and in Phase 1 for Data Science students.
 
 ## How to Approach the Material in this Module
 
@@ -58,9 +58,10 @@ you're learning the material, here are some general guidelines to keep in mind:
 ## Setup
 
 For Software Engineering students, you should have gotten everything you need
-set up in prework. If you haven't, we strongly recommend you complete all the
-lessons in the appropriate (Windows or Mac) Environment Setup module, available
-in the Canvas Prework course or Canvas Homeroom, before you continue.
+set up in Software Engineering Prep. If you haven't, we strongly recommend you
+complete all the lessons in the appropriate (Windows or Mac) Environment Setup
+module, available in the Canvas Software Engineering Prep course or Canvas
+Homeroom, before you continue.
 
 For Data Science students, make sure you have completed the Setting up a
 Professional Data Science Environment lessons, including Introduction,
